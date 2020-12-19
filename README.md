@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Git authentication failed. Initial commit failed. Used git token to authenticate instead and completed git configuration
+The comments in CodePath's video tutorials are helpful in completing this project and code challenges
 
 ## License
 
